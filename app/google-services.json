@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "473856084545",
+    "firebase_url": "https://hostelkhoj-13070.firebaseio.com",
+    "project_id": "hostelkhoj-13070",
+    "storage_bucket": "hostelkhoj-13070.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473856084545:android:38059e82e0b4bcbd52d4c0",
+        "android_client_info": {
+          "package_name": "com.example.hostelkhoj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473856084545-mihge19es31rft6n320ld6poq3pfcibf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4YmeIn-Pqr9fA9HNBCcn4u-E3Dxf7wz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473856084545-mihge19es31rft6n320ld6poq3pfcibf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473856084545:android:8b5baac59061837f52d4c0",
+        "android_client_info": {
+          "package_name": "com.example.myhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473856084545-mihge19es31rft6n320ld6poq3pfcibf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4YmeIn-Pqr9fA9HNBCcn4u-E3Dxf7wz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473856084545-mihge19es31rft6n320ld6poq3pfcibf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
